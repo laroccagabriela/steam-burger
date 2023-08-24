@@ -1,0 +1,29 @@
+:root {
+    --main-purple: #4A235A;
+    --soft-grey: #ECF0F1;
+}
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html {
+    font-size: 62.5%;
+    font-family: 'Ruwudu', serif;
+}
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px;
+    height: 334px;
+    text-align: center;
+    background-color: var(--main-purple);
+    color: var(--soft-grey);
+    line-height: 6rem;
+}
+h1 {
+    font-family: 'Sedgwick Ave Display', cursive;
+    font-size: 7rem;
+}
