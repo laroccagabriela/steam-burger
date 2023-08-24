@@ -27,3 +27,8 @@ h1 {
     font-family: 'Sedgwick Ave Display', cursive;
     font-size: 7rem;
 }
+header img {
+    width: 250px;
+    height: 150px;
+    align-self: center;
+}
