@@ -86,3 +86,8 @@ header img {
     align-self: center;
     margin-right: 15px;
 }
+footer {
+    display: flex;
+    justify-content: center;
+    background-color: var(--soft-grey);
+}
